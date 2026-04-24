@@ -1,0 +1,18 @@
+# Local credentials / config — NEVER commit
+config.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
